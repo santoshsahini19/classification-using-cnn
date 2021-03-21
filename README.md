@@ -8,3 +8,5 @@ In this project, I worked on basic implementation of Convolutional Neural Networ
 - Pre-processed data is fed to convolution neural network (consists of multiple layers)
 - CNN is trained on this data with an accuracy of 90%
 - This model is tested with a new image to classify it as a dog or cat
+
+(Due to large size of the data set I did not include data in this repository)
